@@ -2,10 +2,10 @@
 I am involved in the world of cybersecurity, my field of expertise is <b>Cyber Threat Intelligence</b>.
 
 In my profile you can find projects related to:
-<p>&#128274Privacy and anonymity. </p>
-- Threat Intelligence.
-- Communications security.
-- Post-Quantum Cryptography.
+<p>&#128274 Privacy and anonymity. </p>
+<p>&#128270 Threat Intelligence.</p>
+<p>&#128172 Communications security.</p>
+<p>&#9889 Post-Quantum Cryptography. </p>
 
 📫 Reach me at p41sa@protonmail.com
 <!--
