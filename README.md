@@ -7,7 +7,7 @@ In my profile you can find projects related to:
 <p>&#128172 Communications security.</p>
 <p>&#9889 Post-Quantum Cryptography. </p>
 
-📫 Reach me at p41sa@protonmail.com
+<p>&#128235 Reach me at p41sa@protonmail.com</p>
 <!--
 **P41SA/P41SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
