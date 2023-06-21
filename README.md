@@ -1,5 +1,5 @@
-### Hi, this is Pau!👋
-##### I am involved in the world of cybersecurity, my field of expertise is Cyber Threat Intelligence.
+### Hi, this is P41SA!👋
+I am involved in the world of cybersecurity, my field of expertise is <b>Cyber Threat Intelligence</b>.
 
 In my profile you can find projects related to:
 - Privacy and anonymity.
