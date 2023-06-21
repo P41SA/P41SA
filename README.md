@@ -2,7 +2,7 @@
 I am involved in the world of cybersecurity, my field of expertise is <b>Cyber Threat Intelligence</b>.
 
 In my profile you can find projects related to:
-<p>128274</p> Privacy and anonymity.
+<p>&#128274</p> Privacy and anonymity.
 - Threat Intelligence.
 - Communications security.
 - Post-Quantum Cryptography.
