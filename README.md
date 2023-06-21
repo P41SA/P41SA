@@ -1,6 +1,13 @@
 ### Hi, this is Pau!👋
 ##### I am involved in the world of cybersecurity, my field of expertise is Cyber Threat Intelligence.
 
+In my profile you can find projects related to:
+- Privacy and anonymity.
+- Threat Intelligence.
+- Communications security.
+- Post-Quantum Cryptography.
+
+📫 Reach me at p41sa@protonmail.com
 <!--
 **P41SA/P41SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
