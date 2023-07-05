@@ -1,4 +1,4 @@
-<h3>Hi, this is P41SA!👋</h3>
+<h3>~$whoami👋</h3>
 <p>I am involved in the world of cybersecurity, my field of expertise is <b>Cyber Threat Intelligence</b>.</p>
 <br>
 In my profile you can find projects related to:
